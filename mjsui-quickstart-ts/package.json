@@ -13,7 +13,7 @@
     "vite": "^6.2.0"
   },
   "dependencies": {
-    "@markerjs/markerjs-ui": "^1.0.0-alpha.0",
+    "@markerjs/markerjs-ui": "^1.0.0-beta.1",
     "@markerjs/markerjs3": "^3.5.5"
   }
 }
